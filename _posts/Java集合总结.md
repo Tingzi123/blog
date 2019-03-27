@@ -1,3 +1,6 @@
+title: Java集合总结
+---
+
 List
 ArrayList
 
