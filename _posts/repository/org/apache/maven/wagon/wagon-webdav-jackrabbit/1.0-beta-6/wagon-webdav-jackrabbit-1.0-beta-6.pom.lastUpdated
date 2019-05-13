@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 23 10:52:51 CST 2018
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.wagon\:wagon-webdav-jackrabbit\:pom\:1.0-beta-6 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: D\:\\repository\\org\\apache\\maven\\wagon\\wagon-webdav-jackrabbit\\1.0-beta-6\\aether-b73e2eec-6005-41cb-b943-a8c3cb7db25e-wagon-webdav-jackrabbit-1.0-beta-6.pom-in-progress (\u7CFB\u7EDF\u627E\u4E0D\u5230\u6307\u5B9A\u7684\u6587\u4EF6\u3002)
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1540263171320

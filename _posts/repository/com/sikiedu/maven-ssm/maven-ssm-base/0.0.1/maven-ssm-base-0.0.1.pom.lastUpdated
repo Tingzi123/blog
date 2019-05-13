@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Oct 29 14:41:24 CST 2018
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://localhost\:8081/repository/maven-public/.lastUpdated=1540795282590
+http\://localhost\:8081/repository/maven-public/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1540795284128

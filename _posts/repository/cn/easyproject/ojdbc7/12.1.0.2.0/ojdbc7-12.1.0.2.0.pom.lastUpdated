@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Oct 19 22:59:51 CST 2018
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact cn.easyproject\:ojdbc7\:pom\:12.1.0.2.0 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: D\:\\test\\repository\\cn\\easyproject\\ojdbc7\\12.1.0.2.0\\aether-5743abdd-5734-4d9b-8063-28573bb42611-ojdbc7-12.1.0.2.0.pom-in-progress (\u7CFB\u7EDF\u627E\u4E0D\u5230\u6307\u5B9A\u7684\u6587\u4EF6\u3002)
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1539961191285

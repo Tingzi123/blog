@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Oct 22 20:30:22 CST 2018
+wagon-http-shared-3.1.0.jar>alimaven=
+wagon-http-shared-3.1.0.pom>central=
+wagon-http-shared-3.1.0.pom>alimaven=
+wagon-http-shared-3.1.0.jar>central=

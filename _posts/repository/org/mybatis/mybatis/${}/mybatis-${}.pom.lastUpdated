@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 30 09:47:17 CST 2018
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://localhost\:8081/repository/maven-public/.error=Could not transfer artifact org.mybatis\:mybatis\:pom\:${} from/to nexus (http\://localhost\:8081/repository/maven-public/)\: Failed to transfer http\://localhost\:8081/repository/maven-public/org/mybatis/mybatis/${}/mybatis-${}.pom. Error code 400, Invalid repository path
+@default-nexus-http\://localhost\:8081/repository/maven-public/.lastUpdated=1540864034843
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1540864037935
