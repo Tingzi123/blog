@@ -28,3 +28,4 @@ SpringMVC是Spring的一个模块，是基于MVC的web框架
 6）视图（View）：是一个接口，通过实现类来支持不同的view类型（jsp、pdf......)
 
 例子：
+ 
